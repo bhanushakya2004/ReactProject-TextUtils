@@ -1,0 +1,18 @@
+.about-container {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .accordion-item {
+    background-color: rgba(255, 255, 255, 0.5); /* More transparency for accordion items */
+  }
+  
+  .accordion-button {
+    background-color: rgba(255, 255, 255, 0.3); /* Semi-transparent background for accordion buttons */
+  }
+  
+  .accordion-body {
+    background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent background for accordion body */
+  }
+  
